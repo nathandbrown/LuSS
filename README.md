@@ -58,4 +58,4 @@ All other functions included in the repository are dependencies that should be k
 `zroots.m` is modified from:
 Recktenwald, G., 2006. [Transient, one-dimensional heat conduction in a convectively cooled sphere](http://www.webcitation.org/60nDyv3Yy), Portland State University, Dept. of MME.
 # Reference
-<a id="B2020">[Brown, N.D., 2020.]</a> Which geomorphic processes can be informed by luminescence measurements? *in press at Geomorphology*.
+<a id="B2020">[Brown, N.D., 2020.]</a> Which geomorphic processes can be informed by luminescence measurements? *in press at Geomorphology*. doi: https://doi.org/10.1016/j.geomorph.2020.107296
